@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
