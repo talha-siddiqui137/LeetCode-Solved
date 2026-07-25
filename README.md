@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
+| [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
