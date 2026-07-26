@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1492-the-kth-factor-of-n) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2413-smallest-even-multiple](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2485-find-the-pivot-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
