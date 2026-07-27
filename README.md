@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1108-defanging-an-ip-address) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
