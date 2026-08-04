@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2485-find-the-pivot-integer) |
+| [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2579-count-total-number-of-colored-cells) |
 | [2769-find-the-maximum-achievable-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
