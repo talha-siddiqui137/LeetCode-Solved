@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Stack
 |  |
 | ------- |
