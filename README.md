@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1572-matrix-diagonal-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
+| [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
+| [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Sliding Window
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
