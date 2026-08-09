@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
