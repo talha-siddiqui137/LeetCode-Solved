@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 | [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## String
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 | [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 ## Dynamic Programming
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0326-power-of-three) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
