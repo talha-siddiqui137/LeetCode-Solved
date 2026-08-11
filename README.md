@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
