@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Greedy
 |  |
 | ------- |
