@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Divide and Conquer
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
