@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Newton's Method
 |  |
