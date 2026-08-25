@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
