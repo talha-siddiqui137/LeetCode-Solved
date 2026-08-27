@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
