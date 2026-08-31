@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
