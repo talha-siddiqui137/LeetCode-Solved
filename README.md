@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
