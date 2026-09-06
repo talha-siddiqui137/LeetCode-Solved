@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2481-minimum-cuts-to-divide-a-circle) |
