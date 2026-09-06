@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2169-count-operations-to-obtain-zero) |
