@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1859-sorting-the-sentence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3110-score-of-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
