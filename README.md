@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
