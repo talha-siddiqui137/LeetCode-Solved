@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0944-delete-columns-to-make-sorted) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
