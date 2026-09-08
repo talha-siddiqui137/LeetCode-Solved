@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
