@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1390-four-divisors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
@@ -377,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
