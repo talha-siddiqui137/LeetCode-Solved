@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
+| [3701-compute-alternating-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
+| [3701-compute-alternating-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
