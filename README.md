@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
+| [3798-largest-even-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
 | ------- |
