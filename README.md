@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2396-strictly-palindromic-number) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
