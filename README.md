@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0204-count-primes) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Backtracking
