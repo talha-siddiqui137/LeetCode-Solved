@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Backtracking
