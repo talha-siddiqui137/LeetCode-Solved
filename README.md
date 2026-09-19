@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1108-defanging-an-ip-address) |
