@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0905-sort-array-by-parity) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Divide and Conquer
 |  |
