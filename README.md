@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
