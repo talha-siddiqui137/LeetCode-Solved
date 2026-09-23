@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2169-count-operations-to-obtain-zero) |
+| [2211-count-collisions-on-a-road](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2211-count-collisions-on-a-road](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3110-score-of-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3110-score-of-a-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2211-count-collisions-on-a-road) |
 ## Hash Table
 |  |
 | ------- |
