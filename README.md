@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0169-majority-element) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
