@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
+| [3637-trionic-array-i](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
