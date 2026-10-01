@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0386-lexicographical-numbers) |
 ## Bubble Sort
 |  |
