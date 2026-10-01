@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
