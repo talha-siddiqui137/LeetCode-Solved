@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
