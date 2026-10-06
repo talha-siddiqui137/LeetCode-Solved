@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2485-find-the-pivot-integer) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1025-divisor-game) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1578-minimum-time-to-make-rope-colorful) |
