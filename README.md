@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0905-sort-array-by-parity) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2211-count-collisions-on-a-road) |
