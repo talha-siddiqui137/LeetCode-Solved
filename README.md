@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
+| [2460-apply-operations-to-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2460-apply-operations-to-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2643-row-with-maximum-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2643-row-with-maximum-ones) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2293-min-max-game) |
+| [2460-apply-operations-to-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2460-apply-operations-to-an-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
 | [3701-compute-alternating-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3701-compute-alternating-sum) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2460-apply-operations-to-an-array) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
