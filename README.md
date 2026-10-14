@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2643-row-with-maximum-ones) |
@@ -536,5 +538,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
