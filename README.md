@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3701-compute-alternating-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2485-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
