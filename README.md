@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Newton's Method
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 | [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
