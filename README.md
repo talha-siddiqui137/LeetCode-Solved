@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Newton's Method
@@ -545,6 +548,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1603-design-parking-system) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
