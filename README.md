@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2579-count-total-number-of-colored-cells) |
 | [2769-find-the-maximum-achievable-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2769-find-the-maximum-achievable-number) |
