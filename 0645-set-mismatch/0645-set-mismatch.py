@@ -1,15 +1,15 @@
-from collections import Counter
-
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        count = Counter(nums)
+        set_nums = set(nums)
+
         n = len(nums)
-        duplicate = missing = -1
-        
-        for i in range(1, n+1):
-            if count[i] == 2:
-                duplicate = i
-            elif count[i] == 0:
-                missing = i
-                
-        return [duplicate, missing]
+        real_sum = n * (n + 1) // 2
+
+        list_sum = sum(nums)
+        set_sum = sum(set_nums)
+
+        repeated_number = list_sum - set_sum
+
+        missing_number = real_sum - set_sum
+
+        return [repeated_number, missing_number]
