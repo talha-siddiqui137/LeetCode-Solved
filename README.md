@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0066-plus-one) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0119-pascals-triangle-ii) |
@@ -567,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0706-design-hashmap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
