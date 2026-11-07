@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0706-design-hashmap) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1603-design-parking-system) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1910-remove-all-occurrences-of-a-substring) |
