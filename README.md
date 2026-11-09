@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2465-number-of-distinct-averages) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2643-row-with-maximum-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2643-row-with-maximum-ones) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2465-number-of-distinct-averages) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2465-number-of-distinct-averages](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2578-split-with-minimum-sum) |
 | [3467-transform-array-by-parity](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3467-transform-array-by-parity) |
 ## String
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2404-most-frequent-even-element) |
+| [2465-number-of-distinct-averages](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2465-number-of-distinct-averages) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
