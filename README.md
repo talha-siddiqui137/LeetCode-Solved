@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1726-tuple-with-same-product) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1833-maximum-ice-cream-bars](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1833-maximum-ice-cream-bars) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2643-row-with-maximum-ones](https://github.com/talha-siddiqui137/LeetCode-Solved/tree/master/2643-row-with-maximum-ones) |
 ## Geometry
 |  |
